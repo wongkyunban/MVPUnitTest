@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPUnitTest</string>
+    <string name="error_price">Price cannot be empty!</string>
+</resources>
